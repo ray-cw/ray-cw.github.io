@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ray-cw
+title: 5e Stores & Services
 email: raywinardi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Testing description - 1,2,3.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ray-cw
 
 # Build settings
 markdown: kramdown
