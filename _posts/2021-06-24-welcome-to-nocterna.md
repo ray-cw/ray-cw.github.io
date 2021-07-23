@@ -12,9 +12,10 @@ are streaks of verdant green, which is a promise of a bountiful harvest. The far
 
 Welcome to the world of Nocterna, the Darkened Realm, a world without sun. In its place, a brilliant aurora dances across the night sky: ***aurora aeternum*** or colloquially referred to as **"The Light"**. The Light is responsible for the survival of civilization, not just by providing light and warmth, but by repulsing the dark monsters that would tear the land asunder: Shadows, the physical incarnations of mortal Sin itself. 
 
-## The World of Nocterna
+> **GM Notes** <br>
+> Welcome to my new campaign! In this article, I will introduce to you a bit of the setting and the central conflict.
 
-The known world of Nocterna is divided into 3 continents: Aegar of the West, Midgar of the Center and Endragar of the East. The Bloodied Waters, a narrow sea, separates Aegar and Midgar. A much larger body of water, The Timeless Ocean, separates Midgar and Endragar. To the west of Aegar lies another body of water, constantly plagued by storms and fog, christened the Desolate Sea.
+## The World of Nocterna
 
 In Aegar, the northern half of the continent forms the Calthurion Kingdom, a mostly human civilization ruled by House Solaire in alliance with the Church of Light. To the south lies various independent city states and warring factions.
 
@@ -36,4 +37,3 @@ To slay a Shadow is no simple feat. Their primary weakness - the Light - could b
 The Slayers' Guild is a mercenary organization that extends past borders. Their solemn mission - to eliminate the world of Shadows altogether. Slayers are trained to draw strength from the remnants of defeated Shadows, dark crystals called 'Shadow Vestiges'. These Vestiges grant them the powerful abilities of their opponents, such as the strength of a Giant, or the ability to fly.
 
 While many factions are happy to have the Slayers' Guild around, a select few find their source of strength 'repulsive'. One major faction, the Church of Light, considers the practice of using Shadow Vestiges completely sacrilegious. As a result, no Slayers outposts or bases can be found inside the Calthurion Empire. That said, Slayers are still permitted to operate as mercenaries within their borders, even if begrudgingly.
-
