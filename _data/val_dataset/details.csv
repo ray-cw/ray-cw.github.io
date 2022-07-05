@@ -1,0 +1,10 @@
+Column,Description
+Rank,The player's competitive rank (at the timestamp of this match)
+ACS,Average combat score calculated from a players' kills + assists + damage dealt
+KD,Kill-death ratio
+ADR,Average damage per round
+HS%,Headshot percentage
+FK,Number of times player has obtained the first kill during a round
+FD,Number of times player has obtained the first death during a round
+MK,Number of multikills obtained by the player (3+ kills)
+Econ,Economy rating

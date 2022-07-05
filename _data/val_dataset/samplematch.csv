@@ -1,0 +1,3 @@
+MatchID,Map,Duration,Timestamp,ScoreA,ScoreB,Team,Agent,Rank,ACS,Kills,Deaths,Assists,KD,ADR,HS%,FK,FD,MK,Econ
+00011840-3f7e-4d14-9c1a-ab85eba8a7ef,Ascent,35m 48s,07/01/22 01:06 AM,8,13,TeamA,KILLJOY,Silver 3,248,18,16,3,1.1,152.8,17%,2,1,2,57
+00011840-3f7e-4d14-9c1a-ab85eba8a7ef,Ascent,35m 48s,07/01/22 01:06 AM,8,13,TeamA,REYNA,Gold 1,243,18,16,4,1.1,157.0,33%,2,5,0,64
