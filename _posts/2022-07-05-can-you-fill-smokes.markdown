@@ -33,7 +33,6 @@ Of course, there are going to be quite a few duplicates using this method. Thank
 
 {% highlight bash %}
 #!/bin/bash
-
 sort data/matches.txt | uniq > data/matches_cleaned.txt
 {% endhighlight %}
 
