@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 226", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem "webrick", "~> 1.7"
+gem "tzinfo-data"
 
-gem "html-proofer"
+gem "webrick", "~> 1.7"
