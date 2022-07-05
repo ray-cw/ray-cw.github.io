@@ -25,7 +25,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ray CW"
 description              : "Email me your favorite spurious correlation."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ray-cw.github.io"
 baseurl                  : "/"
 repository               : "ray-cw/ray-cw.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
