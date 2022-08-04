@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi there, my name is Ray and I am a data scientist. I have my Bachelor's in Computer Science, with experience working in web development, before I decided to make the career change and pivot towards data science. For the last year I've been honing my skills in Python, statistical analyses and machine learning, and I've never felt so purposeful in life. Data science is very much my calling, and thank you for dropping by to see what I've been learning.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**Grimm's Code Monkey** is a fun portfolio site I've thrown together, where I investigate various data sets (some of my own making via web scraping, or obtained via an API) to answer my own questions on a topic. Most of these topics relate to things I am interested in, such as video games, competitive esports, health and nutrition, music, the list goes on and on. If you are interested in the same things as I, or are curious to see the code behind my insights, then take a look through my gallery of little case studies.
+
+If you have any questions, feel free to reach out to me via LinkedIn or my email.
