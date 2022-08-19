@@ -57,8 +57,7 @@ plugins:
 author:
   name   : "Ray Winardi"
   avatar : "/assets/img/profile_pic.jpeg"
-  bio    : "Data driven problem solver/maker/breaker. Way too invested
-            in all things competitive gaming."
+  bio    : "Data-driven problem solver/maker."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"

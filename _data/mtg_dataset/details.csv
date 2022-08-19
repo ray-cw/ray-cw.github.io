@@ -1,0 +1,10 @@
+Column,Description
+Colours,Dependant variable. The colour identity(s) of a card.
+Name,Name of the card.
+Power,Only for creature cards. The amount of damage a creature can deal in combat.
+Toughness,Only for creature cards. The amount of damage a creature can take in combat.
+ManaValue,The amount of mana required to cast a card.
+Types,Type of the card.
+Subtypes,Subtypes of the card.
+Text,A description of the card and what it does.
+Legalities,Not used for modelling. Only used to filter out cards.
